@@ -1,2 +1,2 @@
-# creating-a-file-and-printing-contents-in-reverse-order
+# 3x3 matrix array
 developed by swathi
